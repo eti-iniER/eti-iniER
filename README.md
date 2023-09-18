@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Eti-ini (_ey-tea-knee_)
-I'm a Computer Science major at the University of Lagos, Nigeria, who's passionate about building cool things with technology. I'm familiar with a handful of languages and frameworks, including: 
+I'm a sophomore Computer Science major at the University of Lagos, Nigeria, who's passionate about building cool things with technology. I'm familiar with a handful of programming languages, tools and frameworks, including: 
 * HTML
 * CSS
 * JavaScript
