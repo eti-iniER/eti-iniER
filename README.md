@@ -16,7 +16,8 @@ Python, Go, TypeScript, React, Django, FastAPI, PostgreSQL, Redis, Docker, AWS
 (plus testing, CI/CD, and all the boring but important glue)
 
 ### Find me elsewhere
-* 🌐 **GitHub:** [https://github.com/eti-iniER](https://github.com/eti-iniER) (you are here)
+* 💻 **GitHub:** [https://github.com/eti-iniER](https://github.com/eti-iniER) (you are here)
+* 🌐 **Portfolio:** [https://eti-ini.me](https://eti-ini.me)
 * 💼 **LinkedIn:** [https://linkedin.com/in/eti-ini](https://linkedin.com/in/eti-ini)
 * 🧑‍💻 **Upwork:** [https://www.upwork.com/freelancers/~01e09bd43110cfbdda](https://www.upwork.com/freelancers/~01e09bd43110cfbdda)
 * 🧠 **Codeforces:** [https://codeforces.com/profile/randombernie](https://codeforces.com/profile/randombernie)
