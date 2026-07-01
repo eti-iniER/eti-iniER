@@ -1,15 +1,16 @@
 # 👋 Hi, I’m Eti-ini (*ey-tea-knee*)
 
-I’m a CS student and software engineer currently living between Lagos, Nigeria and Ottawa, Canada 🇳🇬+🇨🇦
-I like building full-stack applications, thinking too hard about system design, and occasionally stress-testing my brain on LeetCode and Codeforces.
+I’m a CS student and software engineer currently living between Lagos, Nigeria and Ottawa, Canada (🇳🇬 / 🇨🇦).
 
-Most of my work lives at the intersection of **backend systems**, **modern web apps**, and **generative AI**. Currently open to freelance contracts, summer internships, and part-time SWE roles in Nigeria and Canada.
+I like building full-stack applications, working on AI-heavy features, and exploring edtech.
+
+Most of my work lives at the intersection of **backend systems**, **modern web apps**, and **generative AI**. Currently open to freelance contracts and new-grad software engineering roles in Nigeria and Canada.
 
 ### What I’m usually doing
 
 * Building full-stack web apps (React, Django, FastAPI, Remix)
 * Shipping freelance and contract work for real users
-* Competing in programming contests when I want to feel intellectually humbled 😄
+* Grinding LeetCode and Codeforces for fun
 
 ### Tech I reach for
 - Python
