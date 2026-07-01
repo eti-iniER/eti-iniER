@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Eti-ini (*ey-tea-knee*)
 
-I’m a CS student and software engineer currently based in Lagos, Nigeria 🇳🇬
-I like building full-stack applications, thinking too hard about system design, and occasionally stress-testing my brain on Leetcode and Codeforces.
+I’m a CS student and software engineer currently living between Lagos, Nigeria and Ottawa, Canada 🇳🇬+🇨🇦
+I like building full-stack applications, thinking too hard about system design, and occasionally stress-testing my brain on LeetCode and Codeforces.
 
 Most of my work lives at the intersection of **backend systems**, **modern web apps**, and **generative AI**. Currently open to freelance contracts, summer internships, and part-time SWE roles in Nigeria and Canada.
 
@@ -12,8 +12,14 @@ Most of my work lives at the intersection of **backend systems**, **modern web a
 * Competing in programming contests when I want to feel intellectually humbled 😄
 
 ### Tech I reach for
-Python, Go, TypeScript, React, Django, FastAPI, PostgreSQL, Redis, Docker, AWS
-(plus testing, CI/CD, and all the boring but important glue)
+- Python
+- Go
+- TypeScript
+- React (NextJS, Tanstack Router, React Router)
+- Django
+- FastAPI
+- Docker
+- AWS
 
 ### Find me elsewhere
 * 💻 **GitHub:** [https://github.com/eti-iniER](https://github.com/eti-iniER) (you are here)
@@ -25,4 +31,4 @@ Python, Go, TypeScript, React, Django, FastAPI, PostgreSQL, Redis, Docker, AWS
 * 📫 **Email:** [etinieffiongrobert@gmail.com](mailto:etinieffiongrobert@gmail.com)
 
 If something here looks interesting to you, feel free to explore the repos.
-If something looks broken or abandoned... it probably is lol.
+If it looks broken or abandoned... it probably is.
