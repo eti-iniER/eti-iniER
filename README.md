@@ -8,7 +8,7 @@ Most of my work lives at the intersection of **backend systems**, **modern web a
 
 ### What I’m usually doing
 
-* Building full-stack web apps (React, Django, FastAPI, Remix)
+* Building full-stack web apps (React, Django, FastAPI, Remix) and mobile apps (React Native)
 * Shipping freelance and contract work for real users
 * Grinding LeetCode and Codeforces for fun
 
@@ -17,6 +17,7 @@ Most of my work lives at the intersection of **backend systems**, **modern web a
 - Go
 - TypeScript
 - React (NextJS, Tanstack Router, React Router)
+- React Native (Expo)
 - Django
 - FastAPI
 - Docker
